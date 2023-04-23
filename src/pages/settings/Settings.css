@@ -1,0 +1,52 @@
+.settings-container {
+	display: flex;
+	width: 100%;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	overflow-y: scroll;
+	color: rgb(59, 168, 168);
+}
+
+.content-container {
+	display: flex;
+	width: 25vw;
+	height: 75vh;
+	flex-direction: column;
+}
+
+.work-duration {
+	/* background-color: aqua; */
+	width: 100%;
+	height: 25%;
+}
+
+.break-duration {
+	/* background-color: green; */
+	width: 100%;
+	height: 25%;
+}
+
+.rounds {
+	/* background-color: brown; */
+	width: 100%;
+	height: 25%;
+}
+
+.work-slider {
+	width: 75%;
+}
+
+.break-slider {
+	width: 75%;
+}
+
+.rounds-slider {
+	width: 75%;
+}
+
+.buttons {
+	/* background-color: chartreuse; */
+	height: 25%;
+}
